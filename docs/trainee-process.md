@@ -13,5 +13,5 @@
 If you meet these requirements, you can press the "Continue" button, which will take you to the main application form.
 
  
- ![Application_Process_Trainee](docs/assets/TraineeProcessArticle/Application_Process_Trainee.jpeg)
+ ![Application_Process_Trainee](assets/TraineeProcessArticle/Application_Process_Trainee.jpeg)
  
